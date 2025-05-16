@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/nil0j/cocteleria-kris-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/XanderL2/Cocktail-Making-Kris
