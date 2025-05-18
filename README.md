@@ -47,8 +47,6 @@ La arquitectura es de tipo cliente-servidor:
 ## Propuestas de mejora y nuevas funcionalidades
 - Mejorar la internacionalización y accesibilidad.
 - Implementar tests automatizados (unitarios y de integración).
-![](arquitectura.webp)
-
 
 ## Tecnologías utilizadas
 - **Lenguajes de programación:** C# (backend), TypeScript/JavaScript (frontend)
