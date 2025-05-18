@@ -1,4 +1,4 @@
-# Documentación del Proyecto: Arquitectura Cliente-Servidor (Backend MVC)
+# Cocteleria Krisfuksito :3 🐱
 
 ![enter image description here](https://raw.githubusercontent.com/XanderL2/Cocktail-Making-Kris/refs/heads/main/docs/main.png)
 
@@ -65,6 +65,7 @@ La arquitectura es de tipo cliente-servidor:
 - **Módulos:** Permiten organizar el código por funcionalidades.
 - **Rutas:** Definen la navegación entre vistas.
 - **Buenas prácticas:** Uso de POO, separación de responsabilidades, reutilización de componentes, validación de formularios, accesibilidad.
+  
 
 ### Backend (.NET Core MVC)
 - **Modelos:** Clases que representan las entidades y gestionan la lógica de acceso a datos (ORM, consultas a SQLite).
